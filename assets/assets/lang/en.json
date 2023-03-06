@@ -1,0 +1,43 @@
+{
+  "choose_language": "Choose a Language",
+  "register": "Register",
+  "welcome": "Welcome",
+  "select_user_type": "Select user type",
+  "please_select_user_type": "Please select user type.",
+  "sign_in": "Sign in",
+  "enter_your_phone_number": "Enter your phone number",
+  "phone_number_can_not_be_empty": "Phone number can not be empty",
+  "enter_your_password": "Enter your password",
+  "password_can_not_be_empty": "Password can not be empty",
+  "dashboard": "Dashboard",
+  "assign_reviewer": {
+    "assign_reviewer_title": "Assign Reviewer"
+  },
+  "layout_body_message": {
+    "msg_no_data_found": "No data found.",
+    "msg_something_went_wrong": "Something went wrong."
+  },
+  "apply_for_qr": {
+    "apply_for_qr_warning_title": "Warning",
+    "apply_for_qr_warning_alert_title": "Are you sure about applying?",
+    "apply_for_qr_warning_alert_yes_btn": "Yes",
+    "apply_for_qr_warning_alert_no_btn": "No",
+    "apply_for_qr_title": "Apply for QR",
+    "apply_for_qr_button": "Apply for QR",
+    "apply_for_qr_snack_bar_message": "Merchant does not have any store to apply.",
+    "store_name_label": "Store Name:",
+    "store_name_hint": "Store Name",
+    "channel_name_label": "Channel Name:",
+    "channel_name_hint": "Channel Name",
+    "apply_for_qr_otp_modal_title": "Submit OTP",
+    "apply_for_qr_apply_modal_title": "Apply for QR",
+    "apply_for_qr_otp_button": "Submit OTP",
+    "otp_label": "Please enter OTP Code sent to merchant number",
+    "apply_for_qr_store_finished_msg": "All store is successfully applied for QR",
+    "apply_for_qr_channel_finished_msg": "All QR channel is successfully applied"
+  },
+  "feedback_section": {
+    "feedback_title": "Feedback",
+    "feedback_button": "Feedback"
+  }
+}

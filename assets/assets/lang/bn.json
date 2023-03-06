@@ -1,0 +1,24 @@
+{
+  "choose_language": "ভাষা পরিবর্তন করুণ",
+  "register": "নিবন্ধন করুন",
+  "welcome": "স্বাগত",
+  "select_user_type": "ব্যবহারকারীর নির্বাচন করুন",
+  "please_select_user_type": "অনুগ্রহ করে ব্যবহারকারীর নির্বাচন করুন।",
+  "sign_in": "সাইন ইন",
+  "enter_your_phone_number": "আপনার ফোন নম্বর লিখুন",
+  "phone_number_can_not_be_empty": "ফোন নম্বর খালি হতে পারে না",
+  "enter_your_password": "আপনার পাসওয়ার্ড লিখুন",
+  "password_can_not_be_empty": "পাসওয়ার্ড খালি হতে পারে না",
+  "dashboard": "ড্যাশবোর্ড",
+  "assign_reviewer": {
+    "assign_reviewer_title": "Assign Reviewer"
+  },
+  "apply_for_qr": {
+    "apply_for_qr_warning_title": "Warning",
+    "apply_for_qr_warning_alert_title": "Are you sure about applying?",
+    "apply_for_qr_warning_alert_yes_btn": "Yes",
+    "apply_for_qr_warning_alert_no_btn": "No",
+    "apply_for_qr_title": "QR এর জন্য আবেদন",
+    "apply_for_qr_snack_bar_message": "Merchant does not have any store to apply."
+  }
+}
