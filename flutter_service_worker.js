@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "bc8e4fd8c03ca7710060870267b0d716",
-"index.html": "b0e97cdec7288d581a4215b72906ff29",
-"/": "b0e97cdec7288d581a4215b72906ff29",
-"main.dart.js": "6f932734a1032b11f139eff9d6fabe69",
+"index.html": "a190c09db78c0bb3d223966b81fedad6",
+"/": "a190c09db78c0bb3d223966b81fedad6",
+"main.dart.js": "aa92e1abcc2b51652c3f98d0b6ce2f6e",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "786aed2071b73fa4018c17c0b3256f1e",
 "icons/Icon-192.png": "16f13ce671543a61c244bdb5128e9848",
 "icons/Icon-maskable-192.png": "16f13ce671543a61c244bdb5128e9848",
@@ -34,7 +35,11 @@ const RESOURCES = {
 "assets/assets/fonts/Inter-ExtraBold.ttf": "82c8c1cf127220ccd9914e5dc739de28",
 "assets/assets/fonts/Inter-ExtraLight.ttf": "819a76705047d6474cb529a319e74bbc",
 "assets/assets/fonts/Inter-Black.ttf": "c6dacb6bcfcd747bba440bf2fbd2c85a",
-"assets/assets/fonts/Inter-SemiBold.ttf": "3e87064b7567bef4ecd2ba977ce028bc"
+"assets/assets/fonts/Inter-SemiBold.ttf": "3e87064b7567bef4ecd2ba977ce028bc",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
